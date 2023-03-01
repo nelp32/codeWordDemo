@@ -1,0 +1,1 @@
+INSERT INTO codeword_data VALUES (1, 'a0a0');

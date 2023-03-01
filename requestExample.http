@@ -1,0 +1,12 @@
+###
+GET http://localhost:1309/codeword/next
+
+###
+PUT http://localhost:1309/codeword/generate
+Content-Type: application/json
+
+{
+"codeword": "z9z9"
+}
+
+###a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0a0
